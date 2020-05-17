@@ -2,9 +2,14 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"Datasets": "swift_utils.ipynb"}
+index = {"Datasets": "datasets.ipynb",
+         "gaussian": "find_peak.ipynb",
+         "build_sounding_scatter": "map.ipynb",
+         "build_sounding_map": "map.ipynb"}
 
-modules = ["datasets.py"]
+modules = ["datasets.py",
+           "find_peak.py",
+           "map.py"]
 
 doc_url = "https://trancept.github.io/oco2peak/"
 

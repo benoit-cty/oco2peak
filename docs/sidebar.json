@@ -2,6 +2,8 @@
   "oco2peak": {
     "Overview": "/",
     "module name here": "/core",
-    "Open Stack Swift storage of the project": "/swift_utils"
+    "Open Stack Swift storage of the project": "/datasets",
+    "Title": "/find_peak",
+    "Module to display the data on a map": "/map"
   }
 }

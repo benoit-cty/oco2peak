@@ -14,7 +14,13 @@ entries:
       url: /core
     - output: web,pdf
       title: Open Stack Swift storage of the project
-      url: /swift_utils
+      url: /datasets
+    - output: web,pdf
+      title: Title
+      url: /find_peak
+    - output: web,pdf
+      title: Module to display the data on a map
+      url: /map
     output: web
     title: oco2peak
   output: web
